@@ -1,0 +1,35 @@
+.head{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30;
+}
+.head2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25;
+}
+body{
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content :center;
+    
+    }
+.info{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content :space-evenly;
+
+}
+.info p{
+    margin-left: 200;
+    margin-right: 200;
+}
+.img2 p{
+    
+    margin-right:200;
+
+}
+.images{
+    border: solid;
+    border-top-color: aqua;
+    border-bottom-color: aqua;
+}
